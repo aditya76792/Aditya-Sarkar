@@ -50,11 +50,12 @@ I'm a data-driven Product Manager with a passion for building systems that are b
 **Product**
 
 ![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-0052CC?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-FF6F00?style=flat-square)
 ![Agile](https://img.shields.io/badge/Agile%20Methodology-009688?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-FF6F00?style=flat-square)
 ![PRD Writing](https://img.shields.io/badge/PRD%20Writing-6A0572?style=flat-square)
 ![Roadmapping](https://img.shields.io/badge/Roadmapping-FF6F00?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-FF6F00?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-FF6F00?style=flat-square)
+
 
 **Data & Analytics**
 
