@@ -53,6 +53,8 @@ I'm a data-driven Product Manager with a passion for building systems that are b
 ![Agile](https://img.shields.io/badge/Agile%20Methodology-009688?style=flat-square)
 ![PRD Writing](https://img.shields.io/badge/PRD%20Writing-6A0572?style=flat-square)
 ![Roadmapping](https://img.shields.io/badge/Roadmapping-FF6F00?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-FF6F00?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-FF6F00?style=flat-square)
 
 **Data & Analytics**
 
@@ -85,7 +87,7 @@ I'm a data-driven Product Manager with a passion for building systems that are b
 I'm always open to interesting conversations about product, automation, or data.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-sarkar-2bb7a7204/)
-- 📧 [aditya.s@purplle.com](mailto:aditya.s@purplle.com)
+- 📧 [adityasarkar.iitkgp@purplle.com](mailto:adityasarkar.iitkgp@purplle.com)
 
 ---
 
