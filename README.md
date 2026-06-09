@@ -41,8 +41,6 @@ I'm a data-driven Product Manager with a passion for building systems that are b
 | [**Product Teardowns**](#) | 🔍 Teardown | Structured breakdowns of products across growth, UX, monetization, and engagement loops |
 
 
-> 💡 *Replace `#` with your actual doc/repo links for each project*
-
 ---
 
 ## 🛠️ Skills & Tools
