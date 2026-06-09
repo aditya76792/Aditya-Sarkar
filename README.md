@@ -5,7 +5,7 @@
 ### Associate Product Manager · Data-Driven · Automation Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sarkar-2bb7a7204/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.s@purplle.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasarkar.iitkgp@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya76792)
 
 ---
@@ -33,9 +33,13 @@ I'm a data-driven Product Manager with a passion for building systems that are b
 
 | Project | Type | Description |
 |---|---|---|
-| [**NoBroker Case Study**](#) | 📋 Case Study | Deep-dive into NoBroker's growth model, retention mechanics, and monetization — with actionable recommendations |
-| [**Zomato Rating System**](#) | 📋 Case Study | Analysis of Zomato's rating trust problem and a redesigned rating architecture to improve signal quality |
+| [**NoBroker Case Study**](https://drive.google.com/file/d/1i-lftPNAK84SBK85JY1lJ3xW5pn7ssum/view?usp=sharing) | 📋 Case Study | Deep-dive into NoBroker's growth model, retention mechanics, and monetization — with actionable recommendations |
+| [**Zomato Rating System**](https://drive.google.com/file/d/19ge1IeY67VpSunDpp6njPsjEXOAn2g7w/view?usp=sharing) | 📋 Case Study | Analysis of Zomato's rating trust problem and a redesigned rating architecture to improve signal quality |
 | [**Product Teardowns**](#) | 🔍 Teardown | Structured breakdowns of products across growth, UX, monetization, and engagement loops |
+| [**Product Teardowns**](#) | 🔍 Teardown | Structured breakdowns of products across growth, UX, monetization, and engagement loops |
+| [**Product Teardowns**](#) | 🔍 Teardown | Structured breakdowns of products across growth, UX, monetization, and engagement loops |
+| [**Product Teardowns**](#) | 🔍 Teardown | Structured breakdowns of products across growth, UX, monetization, and engagement loops |
+
 
 > 💡 *Replace `#` with your actual doc/repo links for each project*
 
